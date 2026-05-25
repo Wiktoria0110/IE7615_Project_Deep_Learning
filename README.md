@@ -23,10 +23,10 @@ visualization for interpretability and cross-domain testing on Yelp reviews.
 4. DistilBERT (fine-tuned transformer)
 
 ## Repository Structure
-- `/proposals` — Project proposals
-- `/code` — Jupyter notebooks
-- `/visualizations` — Charts and outputs
-- `/report` — Final report and presentation
+- `/proposals` - Project proposals
+- `/code` - Jupyter notebooks
+- `/visualizations` - Charts and outputs
+- `/report` - Final report and presentation
 
 ## Timeline
 | Week | Task |
